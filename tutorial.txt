@@ -1,0 +1,5 @@
+1. download file
+2. simpan hasil download di localdisk c/xampp/htdoc/
+3. buka phpmyadmin untuk mengimport database
+4. buat database dengan nama apotik
+5. running dengan cara menuliskan localhost/apotik
